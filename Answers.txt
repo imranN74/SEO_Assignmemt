@@ -1,0 +1,21 @@
+Q1. what is SEO and explain the importance of SEO ?
+Ans :- 
+SEO stands for Search Engine Optimization. It is a set of practices and techniques aimed at improving a website's visibility on search engines like Google, Bing, or Yahoo. The primary goal of SEO is to enhance a website's search engine rankings for relevant keywords or phrases, leading to increased visibility and, ultimately, more traffic.
+
+Importance of SEO are :-
+
+(a). Visibility and Traffic: SEO helps improve a website's visibility on search engines, making it more likely to appear in the top results for relevant queries.
+
+(b). Credibility and Trust: Websites that appear at the top of search results are often perceived as more trustworthy and credible by users, Therefore ranking our website on the top of the table can engage more traffice and user retention.
+
+Q2. What are the benefits of using meta tags?
+Ans :-
+Meta tags are snippets of HTML code that provide information about a web page to search engines.
+
+There is plenty of meta tags and their benefits.Here are some benefits of using meta tags:
+
+(a). Charset Meta Tag: Character Encoding Specifies the character encoding for the HTML document. It ensures that special characters and symbols are displayed correctly on the page.
+
+(b). Viewport Meta Tag: The viewport meta tag is crucial for ensuring that a website is mobile-friendly.
+
+(c). Title Tag: The title tag appears as the clickable headline in search engine results, influencing users' decision to click on your link. A well-crafted title can attract more clicks and improve user engagement.
